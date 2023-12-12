@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'pb2bus'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AC752FAF1DF749D2BF876C8099DF5BA6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3A65851EE157405A82062139C979266D }}
